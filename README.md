@@ -3,6 +3,10 @@
 - 👀 I’m interested in Test Automation.
 - 🌱 I’m currently learning Selenium, Java Script and Linux.
 - 📫 How to reach me esra.geneci@gmail.com
+ 
+ * I am good at searching what i need.
+
+
 
 <!---
 esrageneci/esrageneci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
