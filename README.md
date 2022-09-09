@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esrageneci .
 - 😎 I'm a software developer's nightmare which is tester.
-- 👀 I’m interested in Test Automation.
-- 🌱 I’m currently learning Selenium, Java Script and Linux.
+- 👀 I’m interested in Test Automation, Load Test, API Test.
+- 🌱 I have currently knowledge about Selenium, Java Script and Linux.
 - 📫 How to reach me esra.geneci@gmail.com
  
  * I am good at searching what i need.
